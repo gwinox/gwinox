@@ -1,6 +1,6 @@
 # Привет, я Максим 👋
 
-Junior QA Automation Engineer. Пишу UI- и API-автотесты на Java.
+Junior QA Automation Engineer. Пишу UI и API-автотесты на Java.
 
 ## Стек
 Java · Selenium · TestNG · REST Assured · Allure · Page Object · SQL · Hibernate · Maven · Git · Jenkins
