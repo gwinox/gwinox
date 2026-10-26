@@ -1,16 +1,16 @@
-## Hi there 👋
+# Привет, я Максим 👋
 
-<!--
-**gwinox/gwinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Automation Engineer. Пишу UI- и API-автотесты на Java.
 
-Here are some ideas to get you started:
+## Стек
+Java · Selenium · TestNG · REST Assured · Allure · Page Object · SQL · Hibernate · Maven · Git · Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- [demoqa-selenium-framework](https://github.com/gwinox/demoqa-selenium-framework) — собственный фреймворк на чистом Selenium: ожидания, элементы, алерты, фреймы, вкладки, DataProvider
+- [yandex-disk-autotests](https://github.com/gwinox/yandex-disk-autotests) — сквозные UI + REST API тесты с отчётами Allure: шаги, вложения, история запусков
+- [jsonplaceholder-api-tests](https://github.com/gwinox/jsonplaceholder-api-tests) — тесты REST API: статус-коды, модели ответов, негативные проверки
+- [user-inyerface-ui-tests](https://github.com/gwinox/user-inyerface-ui-tests) — UI-тесты нестандартного интерфейса по паттерну Page Object
+
+## Контакты
+- Telegram: [@gwinox](https://t.me/gwinox)
+- Хабр Карьера: [maksim_dubynin](https://career.habr.com/maksim_dubynin)
